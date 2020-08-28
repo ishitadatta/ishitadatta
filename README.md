@@ -11,17 +11,19 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: Drop a mail at isheeta50@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I enjoy making UI/UX designs in my free time!😄
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishitadatta" alt="ishitadatta" /> </p>
 
-- 🔭 I’m currently working on **a number of projects one of which is building an interactive grid on Oracle Apex**
+- 🔭 I’m currently working on: **a number of projects one of which is building an interactive grid on Oracle Apex**
 
-- 🌱 I’m currently learning **client side scripting with Ajax**
+- 🌱 I’m currently learning: **client side scripting with Ajax**
 
-- ⚡ Fun fact **I love creating UI/UX designs in my free time.**
+- ⚡ Fun fact: **I love creating UI/UX designs in my free time.**
+
+- 📫 How to reach me: **Drop a mail at isheeta50@gmail.com**
 
 ### Languages and Tools
 
