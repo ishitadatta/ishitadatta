@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **Drop a mail at isheeta50@gmail.com**
 
 
+![github stats](https://github-readme-stats.vercel.app/api?username=ishitadatta)
+
+
 <a href="https://github.com/ishitadatta">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ishitadatta&layout=compact&theme=radical" />
 </a>
@@ -37,10 +40,11 @@ Here are some ideas to get you started:
 
 ### Connect with me
 <p>
-  
+
  
-<a href="https://linkedin.com/in/ishita-datta-44869296" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ishita-datta-44869296" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/13777130" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13777130" height="30" width="30" /></a>
-<a href="https://instagram.com/ishixta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ishixta" height="30" width="30" /></a>
-<a href="https://www.behance.net/ishita_datta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="ishita_datta" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/ishita-datta-44869296" target="blank"><img align="center" src="https://img.icons8.com/color/32/000000/linkedin.png" alt="ishita-datta-44869296" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/13777130" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="13777130" height="30" width="30" /></a>
+<a href="https://instagram.com/ishixta" target="blank"><img align="center" src="https://img.icons8.com/fluent/32/000000/instagram-new.png" alt="ishixta" height="30" width="30" /></a>
+<a href="https://www.behance.net/ishita_datta" target="blank"><img align="center" src="https://img.icons8.com/windows/32/000000/behance-squared--v2.png" alt="ishita_datta" height="30" width="30" /></a>
+<a href="https://medium.com/@amethystzeal" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png" alt="ishita_datta" height="30" width="30" /></a>
 </p>
