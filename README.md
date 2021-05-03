@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **Drop a mail at isheeta50@gmail.com**
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=ishitadatta)
-
 
 <a href="https://github.com/ishitadatta">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ishitadatta&layout=compact&theme=radical" />
