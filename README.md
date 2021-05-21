@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: **Drop a mail at isheeta50@gmail.com**
 
-<a href="https://github.com/ishitadatta">
-<img align="center" alt="ishita's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ishitadatta&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<!-- <a href="https://github.com/ishitadatta">
+<img align="center" alt="ishita's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ishitadatta&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a> -->
 
 <a href="https://github.com/ishitadatta">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ishitadatta&layout=compact&theme=radical" />
