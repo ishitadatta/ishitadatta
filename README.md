@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 
 
-- 🔭 I’m currently working on a number of projects one of which is building an interactive grid on Oracle Apex
-- 🌱 I’m currently learning client side scripting with Ajax
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently building infrastructure-first products, including an interactive data grid in Oracle APEX with backend API integrations and automation hooks.
+- 🌱 I’m currently deepening my skills in client-side architecture with AJAX, async workflows, and resilient UI-to-service communication patterns.
+- 👯 I’m looking to collaborate on AI-enabled developer tooling, observability platforms, and cloud-native workflow systems.
+- 🤔 I’m looking for help with scaling production-grade ML/LLM pipelines, platform reliability design, and secure multi-tenant infrastructure patterns.
+- 💬 Ask me about Oracle APEX, Python backend systems, API design, retrieval-based AI assistants, and practical DevOps for shipping fast without breaking reliability.
 - 📫 How to reach me: Drop a mail at isheeta50@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I enjoy making UI/UX designs in my free time!😄
