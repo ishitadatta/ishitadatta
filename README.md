@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 
-- 🔭 I’m currently building infrastructure-first products, including an interactive data grid in Oracle APEX with backend API integrations and automation hooks.
+- 🔭 I’m currently building infrastructure-first products, including an interactive data grid in with backend API integrations and automation hooks.
 - 🌱 I’m currently deepening my skills in client-side architecture with AJAX, async workflows, and resilient UI-to-service communication patterns.
 - 👯 I’m looking to collaborate on AI-enabled developer tooling, observability platforms, and cloud-native workflow systems.
 - 🤔 I’m looking for help with scaling production-grade ML/LLM pipelines, platform reliability design, and secure multi-tenant infrastructure patterns.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishitadatta" alt="ishitadatta" /> </p>
 
 
-- 🔭 I’m currently building infrastructure-first products, including an interactive data grid in Oracle APEX with backend API integrations and automation hooks.
+- 🔭 I’m currently building infrastructure-first products, including an interactive data grid with backend API integrations and automation hooks.
 - 🌱 I’m currently deepening my skills in client-side architecture with async workflows, and resilient UI-to-service communication patterns.
 - 👯 I’m looking to collaborate on AI-enabled developer tooling, observability platforms, and cloud-native workflow systems.
 - 🤔 I’m looking for help with scaling production-grade ML/LLM pipelines, platform reliability design, and secure multi-tenant infrastructure patterns.
